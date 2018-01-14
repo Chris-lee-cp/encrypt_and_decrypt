@@ -4,7 +4,7 @@
 **
 **  Description:    Encryption Utility Main header file
 **
-**
+**  Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
 *****************************************************************************/
 #ifndef ECU_MAIN_H
 #define ECU_MAIN_H
