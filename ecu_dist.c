@@ -4,7 +4,7 @@
 **
 **  Description:    segment input stream and distribute each data block
 **                  to multi encryptors
-**
+**   Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
 *****************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
