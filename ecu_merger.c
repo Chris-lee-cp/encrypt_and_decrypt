@@ -4,7 +4,7 @@
 **
 **  Description:    reorder encrypted block from encryption buffers.
 **                  print out to stdio
-**
+**  Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
 *****************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
