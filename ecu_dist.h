@@ -1,3 +1,5 @@
+// Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
+
 #ifndef ECU_DIST_H
 #define ECU_DIST_H
 
