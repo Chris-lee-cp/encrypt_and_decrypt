@@ -1,3 +1,4 @@
+// Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
 #ifndef ECU_MERGER_H
 #define ECU_MERGER_H
 
