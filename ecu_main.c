@@ -11,7 +11,7 @@
 **                          bit shift key value
 ** - merger (ecu_merger.c) : reassemble encrypted data with seq number
 **                           manage reorder buffer.
-**
+**  Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
 *****************************************************************************/
 
 #include <stdio.h>
