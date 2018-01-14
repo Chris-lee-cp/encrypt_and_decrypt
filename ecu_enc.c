@@ -4,7 +4,7 @@
 **
 **  Description:    encrypt each block and send encrypted block
 **                  to encrypt ring buffer
-**
+**   Copyright  2018, junghoon lee(jhoon.chris@gmail.com)
 *****************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
